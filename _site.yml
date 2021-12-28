@@ -1,0 +1,12 @@
+name: "pokemon-blog"
+title: "Pokemon Data Analysis, Statistics, and Probability"
+description: |
+  Pokemon Data Analysis, Statistics, and Probability
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

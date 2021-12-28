@@ -1,0 +1,5 @@
+---
+title: "Pokemon Data Analysis, Statistics, and Probability"
+site: distill::distill_website
+listing: posts
+---
